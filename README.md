@@ -1,2 +1,7 @@
 # Compy
-Compy adalah script yg bisa mengamankan script python kamu dari recode xixixi :v
+Penggunaan :\
+$apt update && apt upgrade\
+$pkg install python2 git\
+$git clone https://github.com/MRROBO28/Compy \
+$cd Compy\
+$python2 compile.py
