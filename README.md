@@ -8,5 +8,4 @@ $python2 compile.py
 
 
 Notes : \
-Hanya bisa compile python2 
-
+Bisa compile python dan python2
